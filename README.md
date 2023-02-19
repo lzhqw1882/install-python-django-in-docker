@@ -2,6 +2,8 @@
 
 This is the set environment for Django in the Docker.
 
+You will prepare install Python and Docker in your local environment.
+
 ## Contents
 
 * [Installation for local environment](#Installation-for-local-environment)
@@ -9,9 +11,6 @@ This is the set environment for Django in the Docker.
 
 
 ## Installation for local environment
-
-1. You will prepare install python in your local environment.
-
 
 01 step : Install Django in your local:
 
@@ -33,8 +32,6 @@ This is the set environment for Django in the Docker.
 
 
 ## Installation for Docker
-
-1. You will prepare install docker in your local environment.
 
 01 step : Make Docker image file.
 
