@@ -4,8 +4,8 @@ This is the set environment for Django in the Docker.
 
 ## Contents
 
-* [Installation for local environment](#Installation for local environment)
-* [Installation for Docker](#Installation for Docker)
+* [Installation for local environment](#Installation-for-local-environment)
+* [Installation for Docker](#Installation-for-Docker)
 
 
 ## Installation for local environment
