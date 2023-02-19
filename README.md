@@ -12,11 +12,11 @@ You will prepare install Python and Docker in your local environment.
 
 ## Installation for local environment
 
-01 step : Install Django in your local:
+01 step : Install Django:
 
     $ pip install django 
 
-02 step : Make project in your local
+02 step : Make project
 
     $ python-admin startproject src .
 
