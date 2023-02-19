@@ -1,6 +1,6 @@
 # Install the Django in the Docker
 
-This is the set environment for FastApi in the Docker.
+This is the set environment for Django in the Docker.
 
 ## Contents
 
